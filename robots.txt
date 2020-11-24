@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:html/formulaire.html
+Sitemap: http://www.barnum31.fr/sitemap.xml
+Sitemap: http://www.barnum31.fr/sitemap.xml.gz
+Sitemap: http://www.barnum31.fr/sitemap.html
